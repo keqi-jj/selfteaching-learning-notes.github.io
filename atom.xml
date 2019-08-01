@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>自学营学员笔记</title>
+  
+  <subtitle>总结、记录、打卡、沉淀</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://selfteaching-learning-notes.github.io/"/>
+  <updated>2019-08-01T03:38:06.000Z</updated>
+  <id>https://selfteaching-learning-notes.github.io/</id>
+  
+  <author>
+    <name>自学营团队</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>1901050017-自学训练营学习4群-PYTHON入门 </title>
+    <link href="https://selfteaching-learning-notes.github.io/Python%E5%85%A5%E9%97%A8/1901050017-%E8%87%AA%E5%AD%A6%E8%AE%AD%E7%BB%83%E8%90%A5%E5%AD%A6%E4%B9%A04%E7%BE%A4-PYTHON%E5%85%A5%E9%97%A8/"/>
+    <id>https://selfteaching-learning-notes.github.io/Python入门/1901050017-自学训练营学习4群-PYTHON入门/</id>
+    <published>2019-08-01T03:34:56.000Z</published>
+    <updated>2019-08-01T03:38:06.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;学员信息&quot;&gt;&lt;a href=&quot;#学员信息&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Python入门" scheme="https://selfteaching-learning-notes.github.io/categories/Python%E5%85%A5%E9%97%A8/"/>
+    
+    
+      <category term="Python" scheme="https://selfteaching-learning-notes.github.io/tags/Python/"/>
+    
+      <category term="学习打卡" scheme="https://selfteaching-learning-notes.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1/"/>
+    
+      <category term="自学营" scheme="https://selfteaching-learning-notes.github.io/tags/%E8%87%AA%E5%AD%A6%E8%90%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1901050017-自我介绍</title>
+    <link href="https://selfteaching-learning-notes.github.io/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/1901050017-%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://selfteaching-learning-notes.github.io/自我介绍/1901050017-自我介绍/</id>
+    <published>2019-08-01T03:14:47.000Z</published>
+    <updated>2019-08-01T03:17:08.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;基本信息&quot;&gt;&lt;a href=&quot;#基本信息&quot; class=&quot;headerlink&quot; title=&quot;基本信息&quot;&gt;&lt;/a&gt;基本信息&lt;/h3&gt;&lt;p&gt;姓名：王晓镜&lt;br&gt;学号：1901050017&lt;/p&gt;
+&lt;h3 id=&quot;工作背景&quot;&gt;&lt;a href=&quot;#工作背景&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="自我介绍" scheme="https://selfteaching-learning-notes.github.io/categories/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+      <category term="中学老师" scheme="https://selfteaching-learning-notes.github.io/tags/%E4%B8%AD%E5%AD%A6%E8%80%81%E5%B8%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1901100009-自学是门手艺-第一部分的七个章节</title>
+    <link href="https://selfteaching-learning-notes.github.io/%E8%87%AA%E5%AD%A6%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA/1901100009-%E8%87%AA%E5%AD%A6%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA-%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%E7%9A%84%E4%B8%83%E4%B8%AA%E7%AB%A0%E8%8A%82/"/>
+    <id>https://selfteaching-learning-notes.github.io/自学是门手艺/1901100009-自学是门手艺-第一部分的七个章节/</id>
+    <published>2019-08-01T02:26:06.000Z</published>
+    <updated>2019-08-01T02:26:55.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h4 id=&quot;学员信息&quot;&gt;&lt;a href=&quot;#学员信息&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="自学是门手艺" scheme="https://selfteaching-learning-notes.github.io/categories/%E8%87%AA%E5%AD%A6%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA/"/>
+    
+    
+      <category term="Python" scheme="https://selfteaching-learning-notes.github.io/tags/Python/"/>
+    
+      <category term="学习打卡" scheme="https://selfteaching-learning-notes.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1/"/>
+    
+      <category term="自学" scheme="https://selfteaching-learning-notes.github.io/tags/%E8%87%AA%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1901010056-自学训练营学习1群-Python入门</title>
+    <link href="https://selfteaching-learning-notes.github.io/Python%E5%85%A5%E9%97%A8/1901010056-%E8%87%AA%E5%AD%A6%E8%AE%AD%E7%BB%83%E8%90%A5%E5%AD%A6%E4%B9%A01%E7%BE%A4-Python%E5%85%A5%E9%97%A8/"/>
+    <id>https://selfteaching-learning-notes.github.io/Python入门/1901010056-自学训练营学习1群-Python入门/</id>
+    <published>2019-08-01T02:22:05.000Z</published>
+    <updated>2019-08-01T03:38:06.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;学员信息&quot;&gt;&lt;a href=&quot;#学员信息&quot; class=&quot;headerlink&quot; title=&quot;学员信息&quot;&gt;&lt;/a&gt;学员信息&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;姓名：马林同学&lt;/li&gt;
+&lt;li&gt;学号：1901010056&lt;/li&gt;
+&lt;li&gt;学习内容：Python 14
+        
+      
+    
+    </summary>
+    
+      <category term="Python入门" scheme="https://selfteaching-learning-notes.github.io/categories/Python%E5%85%A5%E9%97%A8/"/>
+    
+    
+      <category term="Python" scheme="https://selfteaching-learning-notes.github.io/tags/Python/"/>
+    
+      <category term="学习打卡" scheme="https://selfteaching-learning-notes.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1/"/>
+    
+      <category term="自学营" scheme="https://selfteaching-learning-notes.github.io/tags/%E8%87%AA%E5%AD%A6%E8%90%A5/"/>
+    
+      <category term="学习总结" scheme="https://selfteaching-learning-notes.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1901010056-自我介绍</title>
+    <link href="https://selfteaching-learning-notes.github.io/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/1901010056-%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://selfteaching-learning-notes.github.io/自我介绍/1901010056-自我介绍/</id>
+    <published>2019-08-01T02:21:06.000Z</published>
+    <updated>2019-08-01T02:26:55.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;基本信息&quot;&gt;&lt;a href=&quot;#基本信息&quot; class=&quot;headerlink&quot; title=&quot;基本信息&quot;&gt;&lt;/a&gt;基本信息&lt;/h3&gt;&lt;p&gt;姓名：马林&lt;br&gt;学号：1901010056&lt;/p&gt;
+&lt;h3 id=&quot;工作背景&quot;&gt;&lt;a href=&quot;#工作背景&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="自我介绍" scheme="https://selfteaching-learning-notes.github.io/categories/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+      <category term="大学生" scheme="https://selfteaching-learning-notes.github.io/tags/%E5%A4%A7%E5%AD%A6%E7%94%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1901050119-自学是门手艺(1.5.2)-Day18</title>
+    <link href="https://selfteaching-learning-notes.github.io/%E8%87%AA%E5%AD%A6%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA/1901050119-%E8%87%AA%E5%AD%A6%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA-1-5-2-Day18/"/>
+    <id>https://selfteaching-learning-notes.github.io/自学是门手艺/1901050119-自学是门手艺-1-5-2-Day18/</id>
+    <published>2019-08-01T02:17:59.000Z</published>
+    <updated>2019-08-01T02:26:55.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;学员信息&quot;&gt;&lt;a href=&quot;#学员信息&quot; class=&quot;headerlink&quot; title=&quot;学员信息&quot;&gt;&lt;/a&gt;学员信息&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;学号：1901050119&lt;/li&gt;
+&lt;li&gt;学习内容：《自学是门手艺》- 1.5.2
+        
+      
+    
+    </summary>
+    
+      <category term="自学是门手艺" scheme="https://selfteaching-learning-notes.github.io/categories/%E8%87%AA%E5%AD%A6%E6%98%AF%E9%97%A8%E6%89%8B%E8%89%BA/"/>
+    
+    
+      <category term="Python" scheme="https://selfteaching-learning-notes.github.io/tags/Python/"/>
+    
+      <category term="学习打卡" scheme="https://selfteaching-learning-notes.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1/"/>
+    
+      <category term="自学" scheme="https://selfteaching-learning-notes.github.io/tags/%E8%87%AA%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1901050119-自我介绍</title>
+    <link href="https://selfteaching-learning-notes.github.io/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/1901050119-%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    <id>https://selfteaching-learning-notes.github.io/自我介绍/1901050119-自我介绍/</id>
+    <published>2019-08-01T02:17:04.000Z</published>
+    <updated>2019-08-01T02:26:55.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;基本信息&quot;&gt;&lt;a href=&quot;#基本信息&quot; class=&quot;headerlink&quot; title=&quot;基本信息&quot;&gt;&lt;/a&gt;基本信息&lt;/h3&gt;&lt;p&gt;姓名：Galaxy&lt;br&gt;学号：1901050119&lt;/p&gt;
+&lt;h3 id=&quot;工作背景&quot;&gt;&lt;a href=&quot;#工作背景&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="自我介绍" scheme="https://selfteaching-learning-notes.github.io/categories/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+      <category term="全职妈妈" scheme="https://selfteaching-learning-notes.github.io/tags/%E5%85%A8%E8%81%8C%E5%A6%88%E5%A6%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>1901010000-MIT-自学 MIT 原版书 第三章</title>
+    <link href="https://selfteaching-learning-notes.github.io/MIT60001/1901010000-MIT-%E8%87%AA%E5%AD%A6-MIT-%E5%8E%9F%E7%89%88%E4%B9%A6-%E7%AC%AC%E4%B8%89%E7%AB%A0/"/>
+    <id>https://selfteaching-learning-notes.github.io/MIT60001/1901010000-MIT-自学-MIT-原版书-第三章/</id>
+    <published>2019-07-31T02:50:57.000Z</published>
+    <updated>2019-07-31T04:05:48.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;学员信息&quot;&gt;&lt;a href=&quot;#学员信息&quot; class=&quot;headerlink&quot; title=&quot;学员信息&quot;&gt;&lt;/a&gt;学员信息&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;学号：1901010000&lt;/li&gt;
+&lt;li&gt;学习内容：自学 MIT 原版书
+        
+      
+    
+    </summary>
+    
+      <category term="MIT60001" scheme="https://selfteaching-learning-notes.github.io/categories/MIT60001/"/>
+    
+    
+      <category term="MIT" scheme="https://selfteaching-learning-notes.github.io/tags/MIT/"/>
+    
+      <category term="Python" scheme="https://selfteaching-learning-notes.github.io/tags/Python/"/>
+    
+      <category term="学习打卡" scheme="https://selfteaching-learning-notes.github.io/tags/%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1/"/>
+    
+  </entry>
+  
+</feed>
